@@ -1,0 +1,2 @@
+[Thu Sep 12 20:14:02 IST 2024] Error installing apt update
+[Thu Sep 12 20:14:34 IST 2024] Error installing sudo apt update
